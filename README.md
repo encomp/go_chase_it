@@ -20,5 +20,7 @@ Diagram of nodes, topics.
 ![](img/world.jpg)
 ![](img/world_2.jpg)
 
-## Robot Chasing the ball
+## Robot Demo
 
+![](img/demo_1.png)
+![](img/demo_2.png)
